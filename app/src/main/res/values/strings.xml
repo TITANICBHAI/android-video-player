@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VidPlayer</string>
+    <string name="all_videos">All Videos</string>
+    <string name="folders">Folders</string>
+    <string name="recently_watched">Recently Watched</string>
+    <string name="no_videos">No videos found</string>
+    <string name="search_videos">Search videos…</string>
+    <string name="permission_denied">Storage permission required to browse videos</string>
+    <string name="pick_video_file">Open video file</string>
+    <string name="share_video">Share video</string>
+    <string name="video_info">Video Info</string>
+    <string name="sort_by">Sort by</string>
+</resources>

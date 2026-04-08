@@ -1,0 +1,4 @@
+-keep class com.localvideoplayer.** { *; }
+-keep class androidx.media3.** { *; }
+-dontwarn androidx.media3.**
+-keepclassmembers class * extends androidx.room.RoomDatabase { *; }

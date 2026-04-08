@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yt_red">#FF0000</color>
+    <color name="yt_dark">#0F0F0F</color>
+    <color name="yt_surface">#1A1A1A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="thumbnail_bg">#1A1A1A</color>
+    <color name="progress_track">#33FFFFFF</color>
+
+    <!-- Material3 seed color -->
+    <color name="seed">#FF0000</color>
+</resources>

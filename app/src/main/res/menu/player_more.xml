@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_subtitles" android:title="Subtitles" />
+    <item android:id="@+id/action_audio_track" android:title="Audio Track" />
+    <item android:id="@+id/action_video_info" android:title="Video Info" />
+    <item android:id="@+id/action_fit_mode" android:title="Fit / Fill Screen" />
+</menu>
